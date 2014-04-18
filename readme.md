@@ -8,8 +8,6 @@ Returns URL for tracking number based on carrier (FedEx, UPS & DHL).
 
 ##Parameters
 	
-		shipping_method
-		Must contain the carrier; FedEx, UPS or DHL
-		tracking_number
-		Tracking number as returned by provider
+*shipping_method - Must contain the carrier; FedEx, UPS or DHL
+*tracking_number - Tracking number as returned by provider
 
